@@ -1,7 +1,7 @@
 <?php
 
 /**
- * The plugin bootstrap file
+ * The plugin bootstrap file (generate from https://wppb.me/)
  *
  * This file is read by WordPress to generate the plugin information in the plugin
  * admin area. This file also includes all of the dependencies used by the plugin,
@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Template Nota / Struk
  * Plugin URI:        maremjaya.com
- * Description:       Plugin untuk membuat template nota atau struk dari berbagai macam usaha
+ * Description:       Plugin wordpress untuk membuat template nota atau struk dari berbagai macam usaha
  * Version:           1.0.0
  * Author:            Agus Nurwanto
  * Author URI:        maremjaya.com
